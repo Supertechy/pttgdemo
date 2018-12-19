@@ -1,0 +1,12 @@
+{
+  "_links": {
+    "individual": {
+      "href": "/individuals/matching/${matchId}",
+      "name": "GET",
+      "title": "Individual Details"
+    },
+    "self": {
+      "href": "/individuals/matching/"
+    }
+  }
+}
